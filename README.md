@@ -40,6 +40,22 @@ For information on deployment terminology, go to
 https://www.mathworks.com/help and select MATLAB Compiler >
 Getting Started > About Application Deployment >
 Deployment Product Terms in the MathWorks Documentation
+
+
+
+4. Once installed, open the application.
+
+5. Enter the number of channels (e.g., 16).
+
+6. Enter the sampling rate (e.g., 128 Hz).
+
+7. Select the EEG file in .csv format.
+
+8. Click Start Prediction to begin the analysis.
+
+9. The predicted results will be displayed in the Class Probabilities and Classes sections.
+
+10. The computation time will be shown in the Runtime section.
 Center.
 
 
