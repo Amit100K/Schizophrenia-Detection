@@ -39,7 +39,7 @@ Files to Package for Standalone
 For information on deployment terminology, go to
 https://www.mathworks.com/help and select MATLAB Compiler >
 Getting Started > About Application Deployment >
-Deployment Product Terms in the MathWorks Documentation
+Deployment Product Terms in the MathWorks Documentation center.
 
 
 
@@ -56,8 +56,3 @@ Deployment Product Terms in the MathWorks Documentation
 9. The predicted results will be displayed in the Class Probabilities and Classes sections.
 
 10. The computation time will be shown in the Runtime section.
-Center.
-
-
-
-
