@@ -21,7 +21,7 @@ Execute the code step by step, running each command or section in sequence to en
 
 
 
-##$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ HC1, HC2, HC3, SZ1, SZ2, SZ3 ############################################
+## Files: HC1, HC2, HC3, SZ1, SZ2, SZ3:
 
 HC1, HC2, HC3, SZ1, SZ2, SZ3 .csv files which can be used for the testing purpose of SZ_PredictionApp.
 These files are taken from [1] "http://brain.bio.msu.ru/eeg_schizophrenia.htm"
