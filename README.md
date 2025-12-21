@@ -1,21 +1,30 @@
 The EWT is also availabel online at: https://in.mathworks.com/matlabcentral/fileexchange/42141-empirical-wavelet-transforms
 Please cite as: Jerome Gilles (2025). Empirical Wavelet Transforms (https://in.mathworks.com/matlabcentral/fileexchange/42141-empirical-wavelet-transforms), MATLAB Central
 
+Download all the files and save them in a specific folder on your computer.
+
+Locate the main script/file (e.g., MainFile.m).
+
+Open the main file and update the required details:
+
+    1. Path to the data folder
+
+    2. Sampling rate
+
+    3. Number of channels
+
+    4. Any other dataset-specific parameters
+
+Save the changes.
+
+Execute the code step by step, running each command or section in sequence to ensure everything works as expected.
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
+%%%%%% For SZ_PredictionApp %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 SZ_PredictionApp Executable
 
