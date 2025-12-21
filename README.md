@@ -2,6 +2,7 @@
 The EWT is also availabel online at: https://in.mathworks.com/matlabcentral/fileexchange/42141-empirical-wavelet-transforms
 Please cite as: Jerome Gilles (2025). Empirical Wavelet Transforms (https://in.mathworks.com/matlabcentral/fileexchange/42141-empirical-wavelet-transforms), MATLAB Central
 
+## Processing of the code:
 Download all the files and save them in a specific folder on your computer.
 
 Locate the main script/file (e.g., MainFile.m).
