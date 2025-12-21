@@ -1,3 +1,4 @@
+## EWT: 
 The EWT is also availabel online at: https://in.mathworks.com/matlabcentral/fileexchange/42141-empirical-wavelet-transforms
 Please cite as: Jerome Gilles (2025). Empirical Wavelet Transforms (https://in.mathworks.com/matlabcentral/fileexchange/42141-empirical-wavelet-transforms), MATLAB Central
 
@@ -28,7 +29,7 @@ These files are taken from [1] "http://brain.bio.msu.ru/eeg_schizophrenia.htm"
 [1] S. V. Borisov, A. Y. Kaplan, N. L. Gorbachevskaya, et al., Analysis of EEG Structural Synchrony in Adolescents with Schizophrenic Disorders, Human Physiology 31 (2005) 255–261. doi:10.1007/s10747-005-0042-z.
 
 
-%%%%%% For SZ_PredictionApp %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+## For SZ_PredictionApp
 
 SZ_PredictionApp Executable (For Dataset B (MHRC))
 
