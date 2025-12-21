@@ -21,12 +21,16 @@ Execute the code step by step, running each command or section in sequence to en
 
 
 
+##$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ HC1, HC2, HC3, SZ1, SZ2, SZ3 ############################################
 
+HC1, HC2, HC3, SZ1, SZ2, SZ3 .csv files which can be used for the testing purpose of SZ_PredictionApp.
+These files are taken from [1] "http://brain.bio.msu.ru/eeg_schizophrenia.htm"
+[1] S. V. Borisov, A. Y. Kaplan, N. L. Gorbachevskaya, et al., Analysis of EEG Structural Synchrony in Adolescents with Schizophrenic Disorders, Human Physiology 31 (2005) 255–261. doi:10.1007/s10747-005-0042-z.
 
 
 %%%%%% For SZ_PredictionApp %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-SZ_PredictionApp Executable
+SZ_PredictionApp Executable (For Dataset B (MHRC))
 
 1. Prerequisites for Deployment 
 
