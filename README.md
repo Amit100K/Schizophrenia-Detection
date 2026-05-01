@@ -12,7 +12,6 @@ url = {https://www.sciencedirect.com/science/article/pii/S0020025526004925},
 author = {Amit Kumar and Abhijit Bhattacharyya},
 }
 
-
 ## EWT: 
 The EWT is also available online at: https://in.mathworks.com/matlabcentral/fileexchange/42141-empirical-wavelet-transforms
 Please cite as: Jerome Gilles (2025). Empirical Wavelet Transforms (https://in.mathworks.com/matlabcentral/fileexchange/42141-empirical-wavelet-transforms), MATLAB Central
