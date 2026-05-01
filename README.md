@@ -1,5 +1,18 @@
+If using this code please cite as: 
+@article{KUMAR2026123561,
+title = {A multi-scale deep scattering network for schizophrenia detection and deployment using EEG signals},
+journal = {Information Sciences},
+volume = {750},
+pages = {123561},
+year = {2026},
+issn = {0020-0255},
+doi = {https://doi.org/10.1016/j.ins.2026.123561},
+url = {https://www.sciencedirect.com/science/article/pii/S0020025526004925},
+author = {Amit Kumar and Abhijit Bhattacharyya},
+}
+
 ## EWT: 
-The EWT is also availabel online at: https://in.mathworks.com/matlabcentral/fileexchange/42141-empirical-wavelet-transforms
+The EWT is also available online at: https://in.mathworks.com/matlabcentral/fileexchange/42141-empirical-wavelet-transforms
 Please cite as: Jerome Gilles (2025). Empirical Wavelet Transforms (https://in.mathworks.com/matlabcentral/fileexchange/42141-empirical-wavelet-transforms), MATLAB Central
 
 ## Processing of the code:
